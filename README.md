@@ -13,9 +13,9 @@
     </td>
   </tr>
 </table>
-
-### Welcome to my GitHub profile!
-
+---
+# Welcome to my GitHub profile!
+---
 ## Skills & Tools
 
 Here are some of the frameworks and tools I work with:
@@ -33,14 +33,13 @@ Here are some of the frameworks and tools I work with:
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
+---
 ## Contact
 
 Feel free to connect with me or check out my repositories for more details!
 
 ---
-
 Thank you for visiting my profile! 😊
----
 <div align="center">
-<img src="https://i.pinimg.com/736x/8f/a5/b6/8fa5b66e4a1948b36bfd9570fa0b2242.jpg">
+<img src="https://i.pinimg.com/736x/66/1b/3e/661b3e9e33ec73c90501858caee78ddb.jpg">
 <div>
