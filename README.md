@@ -13,7 +13,6 @@
     </td>
   </tr>
 </table>
----
     
 # Welcome to my GitHub profile!
 
