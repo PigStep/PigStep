@@ -1,11 +1,12 @@
 <table>
   <tr>
-    <td align="left" valign="middle" width="80%">
+    <td align="left" valign="middle" width="70%">
       <h1>Hi there! Im Vlad Smertev!</h1>
       <h2> About Me </h2>
 
   <p> I am a student at BSUIR, studying Economic Engineering, based in Minsk, Belarus.  </p>
   <p>I am passionate about <B> Data Science <B> and continuously improving my skills in this exciting field. </p>
+    <p>You can check my skills and repositories there! </p>
     </td>
     <td align="right" valign="middle">
       <img src="https://i.pinimg.com/736x/03/d8/3e/03d83e50f8ffc9f5bd9edae1f850ae68.jpg" alt="Funny Image" />
