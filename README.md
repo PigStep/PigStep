@@ -37,5 +37,5 @@ Feel free to connect with me or check out my repositories for more details!
 Thank you for visiting my profile! 😊
 ---
 <div align="center">
-<img src="https://i.pinimg.com/736x/5b/88/dc/5b88dcdd3db7629323e6f7839b2b2cbc.jpg">
+<img src="https://i.pinimg.com/736x/8f/a5/b6/8fa5b66e4a1948b36bfd9570fa0b2242.jpg">
 <div>
