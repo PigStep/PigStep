@@ -13,25 +13,20 @@ I am passionate about **Data Science** and continuously improving my skills in t
 
 ## Skills & Tools
 
-I have experience working with a variety of data science frameworks and tools, including:
+Here are some of the frameworks and tools I work with:
 
-- **Programming & Notebooks:** Python, Jupyter Notebook, VSCode  
-- **Data Manipulation & Analysis:** pandas, numpy, scipy  
-- **Data Visualization:** matplotlib, seaborn  
-- **Machine Learning:** scikit-learn (sklearn)  
-- **Version Control:** Git  
-
----
-
-## Projects
-
-Here are some of my highlighted projects:
-
-- **ML-Delivery-Refund-Research**  
-  Research project on food delivery refund classification based on restaurant delivery datasets. Implemented using Jupyter Notebook.
-
-- **Stepic-R-course-analytics**  
-  Analytics and exercises from the Stepic R course, focusing on data analysis techniques.
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img alt="SciPy" src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" />
+  <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
+  <img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-1A2F45?style=for-the-badge&logo=seaborn&logoColor=white" />
+  <img alt="Scikit-learn" src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img alt="VSCode" src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
 ---
 <!--
