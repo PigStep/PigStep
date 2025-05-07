@@ -14,7 +14,9 @@
   </tr>
 </table>
 ---
+    
 # Welcome to my GitHub profile!
+
 ---
 ## Skills & Tools
 
