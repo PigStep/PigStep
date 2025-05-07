@@ -1,10 +1,10 @@
 <table>
   <tr>
     <td align="left" valign="middle" width="70%">
-      <h1>Hi there!</h1>
+      <h1>Hi there! Im Vlad Smertev!</h1>
     </td>
-    <td align="right" valign="middle" width="30%">
-      <img src="https://i.pinimg.com/736x/03/d8/3e/03d83e50f8ffc9f5bd9edae1f850ae68.jpg" alt="Funny Image" height="100" />
+    <td align="right" valign="middle">
+      <img src="https://i.pinimg.com/736x/03/d8/3e/03d83e50f8ffc9f5bd9edae1f850ae68.jpg" alt="Funny Image" />
     </td>
   </tr>
 </table>
