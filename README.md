@@ -31,8 +31,7 @@ Here are some of the frameworks and tools I work with:
 ---
 
 
-Example of how to insert images in the future:
-![Project Screenshot](https://github.com/PigStep/PigStep/photo_2025-04-16_07-02-38.jpg)
+[(https://github.com/PigStep/PigStep/photo_2025-04-16_07-02-38.jpg)](https://github.com/PigStep/PigStep/blob/977361b0819bbe96d3dfd4e569a841a213a62b82/photo_2025-04-16_07-02-38.jpg)
 
 Or for relative paths:
 
