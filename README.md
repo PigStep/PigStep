@@ -28,10 +28,6 @@ Here are some of the frameworks and tools I work with:
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
----
-images/photo_2025-04-16_07-02-38.jpg
----
-
 ## Contact
 
 Feel free to connect with me or check out my repositories for more details!
@@ -39,3 +35,7 @@ Feel free to connect with me or check out my repositories for more details!
 ---
 
 Thank you for visiting my profile! 😊
+---
+<div align="center">
+<img src="https://sun9-19.userapi.com/impg/c2SOnskRnHPeEBlOOvuEyb_cEeWb5I7F6sz8hw/HB6_KrQZHGk.jpg?size=1000x300&quality=95&sign=77ea53c279f9de3da9541ce183cca626&type=album](https://i.pinimg.com/736x/5b/88/dc/5b88dcdd3db7629323e6f7839b2b2cbc.jpg">
+<div>
