@@ -42,6 +42,3 @@ Feel free to connect with me or check out my repositories for more details!
 
 ---
 Thank you for visiting my profile! 😊
-<div align="center">
-<img height =300px src="https://i.pinimg.com/736x/2c/22/d2/2c22d2e941dc7e2b2e2219585fb7716b.jpg">
-<div>
