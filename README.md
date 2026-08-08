@@ -1,44 +1,34 @@
-<table>
-  <tr>
-    <td align="left" valign="middle" width="70%">
-      <h1>Hi there! Im Vlad Smertev!</h1>
-      <h2> About Me </h2>
+# Vlad Smertev
 
-  <p> I am a student at BSUIR, studying Economic Engineering, based in Minsk, Belarus.  </p>
-  <p>I am passionate about <B> Data Science <B> and continuously improving my skills in this exciting field. </p>
-    <p>You can check my skills and repositories there! </p>
-    </td>
-    <td align="right" valign="middle">
-      <img src="https://i.pinimg.com/736x/03/d8/3e/03d83e50f8ffc9f5bd9edae1f850ae68.jpg" alt="Funny Image" />
-    </td>
-  </tr>
-</table>
-    
-# Welcome to my GitHub profile!
+Data Science / ML — student at BSUIR, based in Minsk, Belarus.
 
----
-## Skills & Tools
+I build machine learning projects end-to-end: EDA, modeling, deployment. Business-oriented, production-minded — not just notebooks.
 
-Here are some of the frameworks and tools I work with:
+## Currently
 
-<p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img alt="SciPy" src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" />
-  <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
-  <img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-1A2F45?style=for-the-badge&logo=seaborn&logoColor=white" />
-  <img alt="Scikit-learn" src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img alt="VSCode" src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img alt="BigQuery" src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-</p>
+Building out a churn prediction system as my flagship project, with a focus on cost-sensitive modeling and deployment.
 
----
+## Featured Projects
+
+**Customer Churn Prediction (Telco)**
+Cost-sensitive churn model with survival analysis for false-negative cost estimation and class imbalance handling. Optuna-tuned LightGBM served through a Streamlit app with batch scoring and risk tiering, deployed with Docker.
+`Python` `LightGBM` `Optuna` `Streamlit` `Docker`
+[Repo](#)
+
+**BPMN Diagram Generation Agent**
+Multi-agent app that turns natural language into BPMN diagrams, with a human-in-the-loop feedback loop built on LangGraph.
+`Python` `FastAPI` `LangGraph` `LangChain`
+[Repo](#)
+
+**Restaurant Sentiment Analysis**
+NLP classifier for restaurant reviews (positive / negative / neutral), with a full training pipeline and MLflow experiment tracking.
+`Python` `scikit-learn` `MLflow` `FastAPI`
+[Repo](https://github.com/PigStep/Restourant-Sentimental-Analys-ML-based) · [MLflow](https://dagshub.com/PigStep/Restourant-Sentimental-Analys-ML-based.mlflow/)
+
+## Stack
+
+Python, Pandas, NumPy, SciPy, scikit-learn, LightGBM, Optuna, MLflow, LangChain, LangGraph, Streamlit, FastAPI, Docker, Git, uv
+
 ## Contact
 
-Feel free to connect with me or check out my repositories for more details!
-
----
-Thank you for visiting my profile! 😊
+LinkedIn · Telegram · Email
